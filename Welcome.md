@@ -5,3 +5,4 @@ Make a note of something, [[create a link]], or try [the Importer](https://help.
 When you're ready, delete this note and make the vault your own.
 
 Test sync – August 3 2026
+Test sync 2 – August 3 2026
